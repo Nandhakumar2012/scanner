@@ -20,9 +20,9 @@ public class Flipcarttest
    
    driver.manage().timeouts().implicitlyWait(Duration.ofSeconds(6));
    
-  System.out.println("test1.....");
+  System.out.println("test11.....");
   
-  System.out.println("test2.....");
+  System.out.println("test21.....");
   
 		  
 		  
